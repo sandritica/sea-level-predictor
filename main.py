@@ -4,6 +4,7 @@ from unittest import main
 
 # Test your function by calling it here
 sea_level_predictor.draw_plot()
+#exit()
 
 # Run unit tests automatically
 main(module='test_module', exit=False)
